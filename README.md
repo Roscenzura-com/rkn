@@ -8,4 +8,4 @@
 
 Подробности здесь: https://roscenzura.org/threads/8340/
 
-Демо: https://reestr.roszapret.ru
+Поиск по списку заблокированных сайтов: https://reestr.roszapret.ru
